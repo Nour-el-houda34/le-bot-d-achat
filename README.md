@@ -1,4 +1,4 @@
-# 🛒 Smart Buy Bot : Amazon vs Jumia
+# 🛒 Smart Buy Bot : Amazon , Jumia et UltraPC
 
 ## 📌 Description
 Ce projet implémente un **agent intelligent d'achat automatisé** capable de comparer en temps réel les prix d'un produit sur trois plateformes majeures de e-commerce : **Amazon** et **Jumia** et **UltraPC**. 
@@ -70,18 +70,6 @@ python nouveau.py
 - Le navigateur du site le plus cher est immédiatement fermé.  
 - Le bot procède à la commande sur le site le moins cher.
 
----
-
-
-
----
-
-
----
-
- 
-
----
 
 ## ⚠️ Remarques Importantes
 - **Sécurité des comptes** : Les identifiants de test *(Email/Mot de passe)* sont codés en dur dans les scripts.  
