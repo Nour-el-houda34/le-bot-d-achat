@@ -46,7 +46,7 @@ Copiez et lancez la commande suivante dans votre terminal :
 
 ```bash
 pip install selenium selenium-stealth beautifulsoup4 amazon-captcha-solver webdriver-manager requests lxml
-
+```
 # 🚀 Utilisation du Système
 
 ## Étape 1 : Lancement
@@ -54,7 +54,7 @@ Lancez le programme via la console :
 
 ```bash
 python nouveau.py
-
+```
 # Étape 2 : Processus de décision
 
 ## Input
