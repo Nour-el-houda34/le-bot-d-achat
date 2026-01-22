@@ -21,6 +21,7 @@ project/
 ├── Jumiaa.py         # Module d'extraction et d'automatisation pour Jumia
 ├── Ultra.py          # Module d'extraction et d'automatisation pour UltraPC
 ├── README.md         # Documentation
+```
 
 # 🤖 Bot de Web Scraping & Automatisation
 
@@ -47,6 +48,7 @@ Copiez et lancez la commande suivante dans votre terminal :
 ```bash
 pip install selenium selenium-stealth beautifulsoup4 amazon-captcha-solver webdriver-manager requests lxml
 ```
+
 # 🚀 Utilisation du Système
 
 ## Étape 1 : Lancement
